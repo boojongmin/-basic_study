@@ -1,0 +1,12 @@
+java compiler :
+http://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html
+http://www.cis.upenn.edu/~bcpierce/courses/629/jdkdocs/tooldocs/solaris/javac.html
+
+manifest
+http://docs.oracle.com/javase/tutorial/deployment/jar/manifestindex.html
+http://egloos.zum.com/charmpa/v/2052918a
+** 마지막은 꼭 LF 또는 CR로 끝나야한다.
+
+jar :
+http://okky.kr/article/3591
+https://docs.oracle.com/javase/tutorial/deployment/jar/index.html
